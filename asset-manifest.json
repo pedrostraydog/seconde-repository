@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/seconde-repository/static/css/main.bf1e3f0d.css",
+    "main.js": "/seconde-repository/static/js/main.3310ed28.js",
+    "static/js/592.33ead5c5.chunk.js": "/seconde-repository/static/js/592.33ead5c5.chunk.js",
+    "static/media/logo2.svg": "/seconde-repository/static/media/logo2.4bfe84544d4ec356d42ebc5b84fde8ea.svg",
+    "index.html": "/seconde-repository/index.html",
+    "main.bf1e3f0d.css.map": "/seconde-repository/static/css/main.bf1e3f0d.css.map",
+    "main.3310ed28.js.map": "/seconde-repository/static/js/main.3310ed28.js.map",
+    "592.33ead5c5.chunk.js.map": "/seconde-repository/static/js/592.33ead5c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf1e3f0d.css",
+    "static/js/main.3310ed28.js"
+  ]
+}
